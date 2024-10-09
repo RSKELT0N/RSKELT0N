@@ -16,12 +16,12 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user: 'RSKELT0N'  # Your GitHub username
-          svg_out: 'github-contribution-grid-snake.svg'  # Output file name
+          svg_out_path: 'github-contribution-grid-snake.svg'  # Output file name
 
       - name: Commit and push
         run: |
-          git config --local user.email "your_email@example.com"  # Your email
-          git config --local user.name "your_username"  # Your GitHub username
+          git config --local user.email "ryanskelton2000@yahoo.com"  # Your email
+          git config --local user.name "RSKELT0N"  # Your GitHub username
           git add github-contribution-grid-snake.svg
           git commit -m "Update contribution graph"
           git push
