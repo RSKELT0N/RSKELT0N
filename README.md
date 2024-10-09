@@ -18,14 +18,6 @@
 
 ---
 
-## 📈 My Commit History
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RSKELT0N&theme=radical" alt="My Commit History" />
-</div>
-
----
-
 ## 📅 Contribution Calendar
 
 <div align="center">
